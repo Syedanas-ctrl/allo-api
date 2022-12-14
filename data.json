@@ -33,7 +33,8 @@
     {
       "id": "meal1",
       "title": "3 course chicken",
-      "starter": "Lorem Ipsum",
+      "description": "White chicken meat, it's jucier, has more concentrated poultry falvor",
+      "starter": "Chilli Chicken",
       "desert": "Cake",
       "price": 9.99,
       "labels": [
@@ -62,8 +63,9 @@
     {
       "id": "meal2",
       "title": "3 course Beef",
-      "starter": "Lorem Ipsum",
-      "desert": "Cake",
+      "description": "Meat in authentic American style, with specail hot sauce and smoked flavor.",
+      "starter": "Bacon",
+      "desert": "Chocolate Fudge",
       "price": 19.99,
       "labels": [
         "beef"
@@ -82,16 +84,17 @@
         },
         {
           "id": "drink-3",
-          "title": "Beer",
-          "price": 6.99
+          "title": "shampagne",
+          "price": 9.99
         }
       ]
     },
     {
       "id": "meal3",
       "title": "3 course Vegetarian",
-      "starter": "Lorem Ipsum",
-      "desert": "Cake",
+      "description": "Even the most hardcore carnivore can't resist the spices and flavors these vegies bring.",
+      "starter": "Gobi Manchurian",
+      "desert": "Cham Cham",
       "price": 79.99,
       "labels": [
         "vegetarian"
@@ -100,26 +103,27 @@
       "drinks": [
         {
           "id": "drink-1",
-          "title": "Vine",
+          "title": "Sharbat",
           "price": 4.99
         },
         {
           "id": "drink-2",
-          "title": "Juice",
+          "title": "Milkshake",
           "price": 5.99
         },
         {
           "id": "drink-3",
-          "title": "Beer",
-          "price": 6.99
+          "title": "Chai",
+          "price": 1.99
         }
       ]
     },
     {
       "id": "meal4",
       "title": "3 course Seafood",
-      "starter": "Lorem Ipsum",
-      "desert": "Cake",
+      "description": "Smoked salmon served with horseradish creme Freiche, mixed leaves and goat cheese.",
+      "starter": "Lobster Rolls",
+      "desert": "Icecream",
       "price": 49.99,
       "labels": [
         "seafood"
@@ -146,8 +150,9 @@
     {
       "id": "meal5",
       "title": "3 course Pork",
-      "starter": "Lorem Ipsum",
-      "desert": "Cake",
+      "description": "Pan fried tendorlion of Pork in a mustard brandy sauce along with sea bass sweet potato.",
+      "starter": "Pork Chips",
+      "desert": "Strawberry Eclair",
       "price": 39.99,
       "labels": [
         "pork"
@@ -161,12 +166,12 @@
         },
         {
           "id": "drink-2",
-          "title": "Juice",
-          "price": 5.99
+          "title": "Beer",
+          "price": 6.99
         },
         {
           "id": "drink-3",
-          "title": "Beer",
+          "title": "Caviar whisky",
           "price": 6.99
         }
       ]
@@ -174,8 +179,9 @@
     {
       "id": "meal6",
       "title": "3 course Kids",
-      "starter": "Lorem Ipsum",
-      "desert": "Cake",
+      "description": "Complete nutritious Italion food cooked in authentic Italion Oven style and goat milk ingredients",
+      "starter": "Spagetti",
+      "desert": "Chocolate and Icecream",
       "price": 29.99,
       "labels": [
         "kids",
@@ -185,17 +191,17 @@
       "drinks": [
         {
           "id": "drink-1",
-          "title": "Vine",
+          "title": "Milkshake",
           "price": 4.99
         },
         {
           "id": "drink-2",
-          "title": "Juice",
+          "title": "Sharbat",
           "price": 5.99
         },
         {
           "id": "drink-3",
-          "title": "Beer",
+          "title": "Lime Juice",
           "price": 6.99
         }
       ]
@@ -203,8 +209,9 @@
     {
       "id": "meal7",
       "title": "3 course Chicken 2",
-      "starter": "Lorem Ipsum",
-      "desert": "Cake",
+      "description": "Choice chicken & liver prafait with rd onion jam, cured meat platter plus chicken brest",
+      "starter": "Chicken Nuggets",
+      "desert": "Croquembouche",
       "price": 19.99,
       "labels": [
         "chicken"
@@ -213,12 +220,12 @@
       "drinks": [
         {
           "id": "drink-1",
-          "title": "Vine",
+          "title": "Coke",
           "price": 4.99
         },
         {
           "id": "drink-2",
-          "title": "Juice",
+          "title": "Sparkling water",
           "price": 5.99
         },
         {
